@@ -19,8 +19,8 @@
     "static/js/7.771c40b9.chunk.js": "/static/js/7.771c40b9.chunk.js",
     "static/js/7.771c40b9.chunk.js.map": "/static/js/7.771c40b9.chunk.js.map",
     "main.css": "/static/css/main.33164291.chunk.css",
-    "main.js": "/static/js/main.591657ee.chunk.js",
-    "main.js.map": "/static/js/main.591657ee.chunk.js.map",
+    "main.js": "/static/js/main.fac1fb1d.chunk.js",
+    "main.js.map": "/static/js/main.fac1fb1d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f94a520b.js",
     "runtime-main.js.map": "/static/js/runtime-main.f94a520b.js.map",
     "static/css/10.c9905f33.chunk.css": "/static/css/10.c9905f33.chunk.css",
@@ -171,7 +171,7 @@
     "static/media/ClaimDeri.svg": "/static/media/ClaimDeri.a7101d76.svg",
     "static/media/DERI-Illustration-cut.6f520b30.webm": "/static/media/DERI-Illustration-cut.6f520b30.webm",
     "static/media/DERI.svg": "/static/media/DERI.6909977e.svg",
-    "static/media/DOGEUSDT.svg": "/static/media/DOGEUSDT.9fbe5e96.svg",
+    "static/media/DOGEUSDT.svg": "/static/media/DOGEUSDT.76ddc095.svg",
     "static/media/DOTUSDT.svg": "/static/media/DOTUSDT.d718b0bf.svg",
     "static/media/ETH.svg": "/static/media/ETH.eda5ca69.svg",
     "static/media/ETH^2.svg": "/static/media/ETH^2.017d2801.svg",
@@ -320,6 +320,6 @@
     "static/css/10.c9905f33.chunk.css",
     "static/js/10.1d3f5603.chunk.js",
     "static/css/main.33164291.chunk.css",
-    "static/js/main.591657ee.chunk.js"
+    "static/js/main.fac1fb1d.chunk.js"
   ]
 }
