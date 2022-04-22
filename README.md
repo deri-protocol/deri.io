@@ -1,2 +1,0 @@
-# deri.io
-## deri website

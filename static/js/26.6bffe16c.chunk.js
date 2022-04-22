@@ -1,2 +1,0 @@
-(this["webpackJsonpderi-client"]=this["webpackJsonpderi-client"]||[]).push([[26],{2133:function(n,i){},2135:function(n,i){},2145:function(n,i){},2152:function(n,i){}}]);
-//# sourceMappingURL=26.6bffe16c.chunk.js.map
