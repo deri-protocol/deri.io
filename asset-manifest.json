@@ -20,9 +20,9 @@
     "static/css/8.486e95d1.chunk.css": "/static/css/8.486e95d1.chunk.css",
     "static/js/8.c6df6a3b.chunk.js": "/static/js/8.c6df6a3b.chunk.js",
     "static/js/8.c6df6a3b.chunk.js.map": "/static/js/8.c6df6a3b.chunk.js.map",
-    "main.css": "/static/css/main.9ee94167.chunk.css",
-    "main.js": "/static/js/main.d86417fd.chunk.js",
-    "main.js.map": "/static/js/main.d86417fd.chunk.js.map",
+    "main.css": "/static/css/main.0d6a6b56.chunk.css",
+    "main.js": "/static/js/main.1dd5f904.chunk.js",
+    "main.js.map": "/static/js/main.1dd5f904.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4b508ce1.js",
     "runtime-main.js.map": "/static/js/runtime-main.4b508ce1.js.map",
     "static/js/11.ead751f7.chunk.js": "/static/js/11.ead751f7.chunk.js",
@@ -168,7 +168,7 @@
     "static/css/42.139ebd00.chunk.css.map": "/static/css/42.139ebd00.chunk.css.map",
     "static/css/7.63b54199.chunk.css.map": "/static/css/7.63b54199.chunk.css.map",
     "static/css/8.486e95d1.chunk.css.map": "/static/css/8.486e95d1.chunk.css.map",
-    "static/css/main.9ee94167.chunk.css.map": "/static/css/main.9ee94167.chunk.css.map",
+    "static/css/main.0d6a6b56.chunk.css.map": "/static/css/main.0d6a6b56.chunk.css.map",
     "static/js/11.ead751f7.chunk.js.LICENSE.txt": "/static/js/11.ead751f7.chunk.js.LICENSE.txt",
     "static/js/12.ec632608.chunk.js.LICENSE.txt": "/static/js/12.ec632608.chunk.js.LICENSE.txt",
     "static/js/13.e3f63daa.chunk.js.LICENSE.txt": "/static/js/13.e3f63daa.chunk.js.LICENSE.txt",
@@ -245,7 +245,7 @@
     "static/media/deposit.svg": "/static/media/deposit.383b5fd5.svg",
     "static/media/deri-based-tip.svg": "/static/media/deri-based-tip.83718cee.svg",
     "static/media/deri-fi-logo.svg": "/static/media/deri-fi-logo.abf35a3b.svg",
-    "static/media/deri-fi.png": "/static/media/deri-fi.ba29eead.png",
+    "static/media/deri-fi.png": "/static/media/deri-fi.ab56d302.png",
     "static/media/deri-lite-logo.svg": "/static/media/deri-lite-logo.b7e4b48b.svg",
     "static/media/deri-lite.svg": "/static/media/deri-lite.032989b7.svg",
     "static/media/deri-margined.svg": "/static/media/deri-margined.7d59c048.svg",
@@ -378,7 +378,7 @@
   "entrypoints": [
     "static/js/runtime-main.4b508ce1.js",
     "static/js/11.ead751f7.chunk.js",
-    "static/css/main.9ee94167.chunk.css",
-    "static/js/main.d86417fd.chunk.js"
+    "static/css/main.0d6a6b56.chunk.css",
+    "static/js/main.1dd5f904.chunk.js"
   ]
 }
