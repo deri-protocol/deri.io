@@ -20,9 +20,9 @@
     "static/css/8.486e95d1.chunk.css": "/static/css/8.486e95d1.chunk.css",
     "static/js/8.143f82a2.chunk.js": "/static/js/8.143f82a2.chunk.js",
     "static/js/8.143f82a2.chunk.js.map": "/static/js/8.143f82a2.chunk.js.map",
-    "main.css": "/static/css/main.44208aa1.chunk.css",
-    "main.js": "/static/js/main.f2a1fb06.chunk.js",
-    "main.js.map": "/static/js/main.f2a1fb06.chunk.js.map",
+    "main.css": "/static/css/main.1c462115.chunk.css",
+    "main.js": "/static/js/main.dc760d70.chunk.js",
+    "main.js.map": "/static/js/main.dc760d70.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.40bb6c43.js",
     "runtime-main.js.map": "/static/js/runtime-main.40bb6c43.js.map",
     "static/js/11.fdcd1633.chunk.js": "/static/js/11.fdcd1633.chunk.js",
@@ -166,7 +166,7 @@
     "static/css/42.139ebd00.chunk.css.map": "/static/css/42.139ebd00.chunk.css.map",
     "static/css/7.63b54199.chunk.css.map": "/static/css/7.63b54199.chunk.css.map",
     "static/css/8.486e95d1.chunk.css.map": "/static/css/8.486e95d1.chunk.css.map",
-    "static/css/main.44208aa1.chunk.css.map": "/static/css/main.44208aa1.chunk.css.map",
+    "static/css/main.1c462115.chunk.css.map": "/static/css/main.1c462115.chunk.css.map",
     "static/js/11.fdcd1633.chunk.js.LICENSE.txt": "/static/js/11.fdcd1633.chunk.js.LICENSE.txt",
     "static/js/12.b0a7f840.chunk.js.LICENSE.txt": "/static/js/12.b0a7f840.chunk.js.LICENSE.txt",
     "static/js/13.5e042027.chunk.js.LICENSE.txt": "/static/js/13.5e042027.chunk.js.LICENSE.txt",
@@ -252,7 +252,7 @@
     "static/media/down.02e6e6af.svg": "/static/media/down.02e6e6af.svg",
     "static/media/down.svg": "/static/media/down.1cd11492.svg",
     "static/media/email.svg": "/static/media/email.e0848928.svg",
-    "static/media/error.svg": "/static/media/error.081dc536.svg",
+    "static/media/error.svg": "/static/media/error.6f34b3c1.svg",
     "static/media/ethereum.svg": "/static/media/ethereum.017d2801.svg",
     "static/media/executive-votes.50e7bf55.svg": "/static/media/executive-votes.50e7bf55.svg",
     "static/media/faild.e2923f7c.svg": "/static/media/faild.e2923f7c.svg",
@@ -372,7 +372,7 @@
   "entrypoints": [
     "static/js/runtime-main.40bb6c43.js",
     "static/js/11.fdcd1633.chunk.js",
-    "static/css/main.44208aa1.chunk.css",
-    "static/js/main.f2a1fb06.chunk.js"
+    "static/css/main.1c462115.chunk.css",
+    "static/js/main.dc760d70.chunk.js"
   ]
 }
