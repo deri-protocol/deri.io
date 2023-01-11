@@ -21,8 +21,8 @@
     "static/js/8.91638ecc.chunk.js": "/static/js/8.91638ecc.chunk.js",
     "static/js/8.91638ecc.chunk.js.map": "/static/js/8.91638ecc.chunk.js.map",
     "main.css": "/static/css/main.923b0526.chunk.css",
-    "main.js": "/static/js/main.d2b1736c.chunk.js",
-    "main.js.map": "/static/js/main.d2b1736c.chunk.js.map",
+    "main.js": "/static/js/main.849c8e6a.chunk.js",
+    "main.js.map": "/static/js/main.849c8e6a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.157b9a7c.js",
     "runtime-main.js.map": "/static/js/runtime-main.157b9a7c.js.map",
     "static/js/11.fdcd1633.chunk.js": "/static/js/11.fdcd1633.chunk.js",
@@ -185,7 +185,7 @@
     "static/media/AXSUSDT.svg": "/static/media/AXSUSDT.35bd7306.svg",
     "static/media/Arbitragers.b71398f8.png": "/static/media/Arbitragers.b71398f8.png",
     "static/media/BABYDOGEUSDT.svg": "/static/media/BABYDOGEUSDT.6548e54a.svg",
-    "static/media/BNBUSD.svg": "/static/media/BNBUSD.c0727e00.svg",
+    "static/media/BNBUSD.svg": "/static/media/BNBUSD.1f2d8869.svg",
     "static/media/BTCB.svg": "/static/media/BTCB.63407f27.svg",
     "static/media/BTC^2.svg": "/static/media/BTC^2.b0bc0271.svg",
     "static/media/fonts.less": "/static/media/BarlowSemiCondensed-SemiBold.965eb934.ttf",
@@ -373,6 +373,6 @@
     "static/js/runtime-main.157b9a7c.js",
     "static/js/11.fdcd1633.chunk.js",
     "static/css/main.923b0526.chunk.css",
-    "static/js/main.d2b1736c.chunk.js"
+    "static/js/main.849c8e6a.chunk.js"
   ]
 }
