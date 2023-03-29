@@ -1,0 +1,57 @@
+(this["webpackJsonpderi-client"]=this["webpackJsonpderi-client"]||[]).push([[8],{1644:function(e,t,s){"use strict";t.a=s.p+"static/media/staked.45c27f0b.svg"},1731:function(e,t,s){"use strict";s.d(t,"a",(function(){return d}));var a=s(248),i=s(363),n=s(9),o=s(176),c=s(23);const r={};var l;function d(e,t,s){const l=Object(o.b)(),{address:d,abi:b}=function(e){return r[e]}(e),{ethereum:m}=l;return d&&(s=d),Object(n.useMemo)((()=>{let e=Object(c.w)(t);return m&&m.networkVersion===String(t)&&(e=new i.a(m,"any")),e?new a.b(s,b,function(e,t){return t?function(e,t){return e.getSigner(t).connectUnchecked()}(e,t):e}(e,l.account),{pollingInterval:500}):null}),[s,b,l])}(l=s(1645)).keys().forEach((e=>{const t=e.split("/"),s=t[t.length-1];r[s.substring(0,s.indexOf("."))]=l(e)}))},1875:function(e,t,s){"use strict";s.d(t,"a",(function(){return g}));var a=s(9),i=s(75),n=s(1467),o=s(218),c=s(565),r=s(566),l=s(567),d=s(564),b=s(1644),m=s(569),j=(s(2208),s(65)),p=s(1731),u=s(32),x=s(23),v=s(99),O=s.n(v),h=s(6);const f="0x96C3966534b4377691e11e163A0409Ad01667343";function g(e){let{lang:t,pool:s,wallet:j}=e;const v=Object(i.g)(),g=["311860","311904"],[k,y]=Object(a.useState)({}),[S,N]=Object(a.useState)(s.address),[_,T]=Object(a.useState)(!1),[E,C]=Object(a.useState)(),[I,F]=Object(a.useState)(!0),[$,q]=Object(a.useState)([]),[X,L]=Object(a.useState)([]),[B,D]=Object(a.useState)(0),[P,U]=Object(a.useState)(0),[z,A]=Object(a.useState)(),[R,H]=Object(a.useState)(0),V=Object(p.a)("ERC20",42161,"0x21E60EE73F17AC0A411ae5D690f908c3ED66Fe12"),J=Object(p.a)("ERC20",42161,"0x82af49447d8a07e3bd95bd0d56f35241523fbab1"),M=Object(p.a)("arbitrumLp",42161),G=Object(p.a)("LpTokenId",42161),Z=Object(p.a)("PairAbi",42161),K=Object(a.useCallback)((async()=>{y({});let e=await s.getPoolInfo(s.address,s.chainId,s.version);N(s.address),y(e)}),[s]),Q=Object(a.useCallback)((async()=>{y({});let e=await V.balanceOf(f),t=await J.balanceOf(f),s=await fetch("https://infoapi.deri.io/stats_for_token"),a=await s.json(),i=(await O.a.get("https://sig.oraclum.io/unsigned?symbols=ETHUSD")).data.ETHUSD,n=a.data.price,o=u.a.from(e._hex).toString()/10**18,c=u.a.from(t._hex).toString()/10**18,r=Object(x.a)(o).times(n).toNumber()+Object(x.a)(c).times(i).toNumber();console.log("getLiquidity",r),y({liquidity:r})}),[V,J]),W=Object(a.useCallback)((async()=>{let e=await s.getIsStaked(j,s);e&&(T(e.isStaked),N(e.poolAddress))}),[j,s]),Y=Object(a.useCallback)((async e=>{await setTimeout((async()=>{let e=Object(x.w)(42161),t=await M.connect(e);console.log("bTime",t);let s=g.map((async e=>{let s={},a=await t.getSecondsPerLiquidityInsideX128(e);return a&&(s.id=e,s.timestamp=u.a.from(a.timestamp._hex).toString(),s.secondsPerLiquidityInsideX128=u.a.from(a.secondsPerLiquidityInsideX128._hex).toString()),s}));s=await Promise.all(s),L(s)}),1e3)}),[M]),ee=Object(a.useCallback)((async()=>{let e=g.map((async e=>{let t={},s=await M.getSecondsPerLiquidityInsideX128(e);return s&&(t.id=e,t.timestamp=u.a.from(s.timestamp._hex).toString(),t.secondsPerLiquidityInsideX128=u.a.from(s.secondsPerLiquidityInsideX128._hex).toString()),console.log("aTime res",s),t}));e=await Promise.all(e),Y(),q(e)}),[M]),te=Object(a.useCallback)((async()=>{let e=g.map((async e=>{let t={},s=await G.positions(e);return t={tickLower:s.tickLower,tickUpper:s.tickUpper,liquidity:u.a.from(s.liquidity._hex).toString()},t}));e=await Promise.all(e);let t=await Z.slot0();t=t.tick;let s=e.map((e=>{let[s,a]=Object(x.o)(t,e.tickLower,e.tickUpper,e.liquidity);return{deri:s/10**18,eth:a/10**18}})),a=s.reduce(((e,t)=>e+t.deri),0),i=s.reduce(((e,t)=>e+t.eth),0),n=await O.a.get("https://sig.oraclum.io/unsigned?symbols=ETHUSD");console.log("ETHUSD",n.data);let o=n.data.ETHUSD,c=Object(x.a)(i).times(o).toNumber();U(c),H(a)}),[G,g,Z]),se=Object(a.useCallback)((async()=>{if(B&&R&&P){let e="https://infoapi.deri.io/stats_for_token",t=await fetch(e),s=(await t.json()).data.price,a=Object(x.a)(R).times(s).toNumber()+P,i=Object(x.a)(B).times(s).toNumber();A(i/a*100)}}),[B,R,P]),ae=Object(a.useCallback)((async()=>{console.log("getTimeRewardInfo",$,X);let e=X.map((async e=>{let t=$.find((t=>t.id===e.id)),s=t.secondsPerLiquidityInsideX128,a=await M.getRewardInBetween(e.id,e.timestamp,s,e.secondsPerLiquidityInsideX128);if(a){return{reward:u.a.from(a._hex).toString()/10**18,id:e.id,timestamp:Math.abs(e.timestamp-t.timestamp)}}}));if(e=await Promise.all(e),console.log("getTimeRewardInfo",e),0!==e[0].timestamp){const t=31536e6,s=e.reduce(((e,t)=>e+t.reward),0)/(1e3*e[0].timestamp)*t;D(s)}}),[$,X,M]),ie=e=>{e.target.src=m.default};Object(a.useEffect)((()=>{"ulp"===s.version&&V?Q():K(),j.isConnected()&&(W(),(async()=>{if(s&&("v3"===s.version||"v3_lite"===s.version)){let e=await s.getVenusEarned(j,s.address);C(e)}})())}),[s,j.detail.account,V,J]),Object(a.useEffect)((()=>{let e=sessionStorage.getItem(s.address);null!==e&&e&&F(!1)}),[s]);Object(a.useEffect)((()=>{"ulp"===s.version&&M&&(q([]),L([]),A(),ee())}),[s.version,M]),Object(a.useEffect)((()=>{"ulp"===s.version&&G&&Z&&te()}),[G,s.version,Z]),Object(a.useEffect)((()=>{B&&R&&P&&se()}),[B,R,P]),Object(a.useEffect)((()=>{$.length&&M&&X.length&&ae()}),[$,X,M]);const ne="ulp"===s.version?`/lppool/${s.chainId}/${s.address}`:`/pool/${s.version||"v1"}/${s.chainId}/${s.type}/${s.address}`;return Object(h.jsx)("div",{className:("0x243681B8Cd79E3823fF574e07B2378B8Ab292c1E"===s.address?"showGuide":"")+" card-box",children:Object(h.jsxs)("div",{className:"v2_lite_open"===s.version?"card-list open-list":"card-list",onClick:()=>{(e=>{"v2_lite_open"!==s.version&&v.push(e)})(ne)},children:[Object(h.jsxs)("div",{className:`card-header ${s.retired?`${s.version}`:""} ${s.new?"new":""}`,children:[Object(h.jsxs)("div",{className:"pool-network-type",children:[Object(h.jsx)("div",{className:"network-logo",children:Object(h.jsx)("img",{alt:"",src:(e=>{let t;return"56"===e||"97"===e?t=c.default:"137"===e?t=l.default:"1"===e?t=d.default:"42161"!==e&&"421611"!==e&&"421613"!==e||(t=r.default),t})(s.chainId)})}),Object(h.jsxs)("div",{className:"pool-type-network-text",children:[Object(h.jsxs)("div",{className:"pool-type-text",children:["0xD2D950e338478eF7FeB092F840920B3482FcaC40"!==s.address&&Object(h.jsxs)(h.Fragment,{children:[t[s.type]," ",t[s.zone]]}),"0x1eF92eDA3CFeefb8Dae0DB4507f860d3b73f29BA"===s.address&&Object(h.jsx)(h.Fragment,{children:"DERI-based"}),"0xD2D950e338478eF7FeB092F840920B3482FcaC40"===s.address&&Object(h.jsx)(h.Fragment,{children:t[s.zone]})]}),Object(h.jsx)("div",{className:"pool-network-text",children:"BSC"===s.chain.toUpperCase()?"BNB Chain":s.chain.toUpperCase()})]})]}),Object(h.jsxs)("div",{className:"base-token-logo",children:[s.isLp&&Object(h.jsx)(h.Fragment,{children:Object(h.jsxs)("div",{className:"lp-base-token-bg",children:[Object(h.jsx)("div",{className:`base-token-bg ${s.bTokens[0].bTokenSymbol}`}),Object(h.jsx)("span",{className:"lp-con",children:"+"}),Object(h.jsx)("div",{className:`base-token-bg ${s.bTokens[1].bTokenSymbol}`})]})}),!s.isLp&&"v3"!==s.version&&"v3_lite"!==s.version&&Object(h.jsx)(h.Fragment,{children:s.bTokens.map(((e,t)=>Object(h.jsx)("div",{className:"base-token-box-bg no-animation-tokens",children:Object(h.jsx)("div",{className:`base-token-bg ${e.bTokenSymbol}`,children:"v2_lite_open"===s.version&&Object(h.jsx)(h.Fragment,{children:Object(h.jsx)("img",{alt:"",onError:ie,src:`https://raw.githubusercontent.com/deri-finance/deri-open-zone/main/img/${e.bTokenSymbol}.png`})})})},t)))}),("v3"===s.version||"v3_lite"===s.version)&&!s.singleBtoken&&Object(h.jsx)(w,{bTokens:s.bTokens}),("v3"===s.version||"v3_lite"===s.version)&&s.singleBtoken&&Object(h.jsx)("div",{className:"base-token-box-bg no-animation-tokens",children:Object(h.jsx)("div",{className:`base-token-bg ${s.bTokens[0].bTokenSymbol}`})})]})]}),Object(h.jsxs)("div",{className:"card-content",children:[Object(h.jsx)("div",{className:"max-apy",children:"v2_lite_open"!==s.version&&Object(h.jsxs)(h.Fragment,{children:[Object(h.jsx)("div",{className:"max-apy-title",children:"v2"===s.version||"v3_lite"===s.version||"v3"===s.version?t["max-apy"]:t.apy}),Object(h.jsx)("div",{className:"max-apy-num",children:Object(h.jsx)(n.a,{value:"ulp"===s.version?z:k.apy,suffix:"%",displayType:"text",allowZero:!0,decimalScale:2})})]})}),Object(h.jsxs)("div",{className:"total-pool-liquidity",children:[Object(h.jsx)("div",{className:"total-liquidity-title",children:t["total-pool-liquidity"]}),Object(h.jsx)("div",{className:"total-liquidity-num",children:Object(h.jsx)(n.a,{value:k.liquidity,displayType:"text",thousandSeparator:!0,decimalScale:"lp"===s.type?"ulp"===s.version?0:7:0})})]}),Object(h.jsxs)("div",{className:"your-deri-epoch",children:[_&&S===s.address&&Object(h.jsxs)("div",{className:"staked-box",children:[Object(h.jsx)("img",{src:b.a,alt:""}),t.staked]}),+E>0&&("v3"===s.version||"v3_lite"===s.version)&&Object(h.jsx)("span",{className:"xvs-collectable",children:Object(h.jsxs)("div",{className:"staked-box",children:[Object(h.jsx)(n.a,{width:"50px",value:E,displayType:"text",thousandSeparator:!0,decimalScale:2})," \xa0 XVS  ",t.collectable]})})]}),Object(h.jsx)("div",{className:"stake-button",children:Object(h.jsx)(o.a,{disabled:"v2_lite_open"===s.version,className:"button",outline:!0,label:"v2_lite_open"===s.version?t.operating:t.stake})})]})]})})}const k=j.a.div`
+  @-webkit-keyframes explode {
+    0% {
+        transform: translateX(0px);
+        -moz-transform : translateX(0px);
+    }
+    100% {
+        transform: translateX(100px);
+        -moz-transform : translateX(100px);
+    }
+  }
+
+  @keyframes explode {
+    0% {
+        transform: translateX(0px);
+        -moz-transform : translateX(0px);
+    }
+    100% {
+        transform: translateX(100px) ;
+        -moz-transform : translateX(100px) ;
+    }
+  }
+  .base-token{
+    margin-left: 0px !important;
+    z-index : -2;
+    visibility: hidden;
+    background-color: #111e34;
+    border : 1px solid #fff;
+  }
+  @media only screen and (max-width: 760px) {
+    .base-token{
+      display:none;
+    }
+  }
+  .base-token-box-bg.explode:hover .move  {
+    -webkit-animation : explode .4s .0s linear;
+    -moz-animation :  explode .4s .0s linear;
+    animation: explode .4s .0s linear;
+    visibility: visible;    
+  }
+  
+  .base-token-box-bg.explode:hover .base-token {
+    z-index : 2 !important;
+  } 
+
+`,y=j.a.div`
+  position: absolute;
+  transform : ${e=>`rotate(${-e.rotate}deg)`};
+  width: 48px;
+  height: 48px;
+  display: inline-block;
+  border-radius: 50%;
+  .move {
+    transform : translateX(100px) ${e=>`rotate(${e.rotate}deg)`};
+  }
+`,w=e=>{let{bTokens:t=[]}=e;const s=360/t.length;return Object(h.jsxs)(k,{className:"v3-tokens",children:[Object(h.jsx)("div",{className:"tokens",children:t.filter(((e,t)=>t<3)).map(((e,t)=>Object(h.jsx)("div",{className:"base-token-box-bg",children:Object(h.jsx)("div",{className:`base-token-bg ${e.bTokenSymbol}`})},t)))}),Object(h.jsxs)("div",{className:"base-token-box-bg explode",children:[Object(h.jsxs)("div",{className:"base-token-bg num-token",children:[t.length-3," +"]}),t.map(((e,t)=>{const a=s*t;return Object(h.jsx)(y,{className:"base-token",rotate:a,width:"100",children:Object(h.jsx)("div",{width:"100",rotate:a,className:`base-token-bg move ${e.bTokenSymbol}`})},t)}))]})]})}},1876:function(e,t,s){},2208:function(e,t,s){}}]);
+//# sourceMappingURL=8.f70998a6.chunk.js.map
