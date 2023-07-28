@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.91c25d80.css",
-    "main.js": "/static/js/main.915ecd4b.js",
+    "main.css": "/static/css/main.576f0cab.css",
+    "main.js": "/static/js/main.5dd740b5.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.f2affc30b5fcfcf5354f.png",
@@ -50,6 +50,7 @@
     "static/media/APT.svg": "/static/media/APT.6d06cafc34b3fed41768.svg",
     "static/media/SHIB.svg": "/static/media/SHIB.80da329ea54063cd7b92.svg",
     "static/media/discord.svg": "/static/media/discord.bb365a8a124cb389908f.svg",
+    "static/media/close-only.svg": "/static/media/close-only.d6401c35beee55515db1.svg",
     "static/media/no-data-icon.svg": "/static/media/no-data-icon.a143531c53c651aed10e.svg",
     "static/media/FITFI.svg": "/static/media/FITFI.1eebaa711f6eb35bab01.svg",
     "static/media/SXP copy.svg": "/static/media/SXP copy.15b2a8e35da9f4f40242.svg",
@@ -179,7 +180,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.91c25d80.css",
-    "static/js/main.915ecd4b.js"
+    "static/css/main.576f0cab.css",
+    "static/js/main.5dd740b5.js"
   ]
 }
