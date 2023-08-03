@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.46808e44.css",
-    "main.js": "/static/js/main.70bbf7e5.js",
+    "main.js": "/static/js/main.29d4eb32.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.f2affc30b5fcfcf5354f.png",
@@ -55,6 +55,7 @@
     "static/media/FITFI.svg": "/static/media/FITFI.1eebaa711f6eb35bab01.svg",
     "static/media/SXP copy.svg": "/static/media/SXP copy.15b2a8e35da9f4f40242.svg",
     "static/media/SXP.svg": "/static/media/SXP.15b2a8e35da9f4f40242.svg",
+    "static/media/beta.svg": "/static/media/beta.d6142eb0822b2f979b18.svg",
     "static/media/share-twitter.svg": "/static/media/share-twitter.aa3143ac97ace13df84684d86bd85b14.svg",
     "static/media/hr-bg.svg": "/static/media/hr-bg.bbe01fbfd44072a8ef07.svg",
     "static/media/BTC.svg": "/static/media/BTC.b0bc0271ab5790f4d1c4.svg",
@@ -186,6 +187,6 @@
   },
   "entrypoints": [
     "static/css/main.46808e44.css",
-    "static/js/main.70bbf7e5.js"
+    "static/js/main.29d4eb32.js"
   ]
 }
