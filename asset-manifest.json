@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5a5e006.css",
-    "main.js": "/static/js/main.e02e971c.js",
+    "main.css": "/static/css/main.46808e44.css",
+    "main.js": "/static/js/main.b8d0faa9.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.f2affc30b5fcfcf5354f.png",
@@ -114,6 +114,7 @@
     "static/media/MATIC.svg": "/static/media/MATIC.80d4567910bcd41ec917.svg",
     "static/media/error.svg": "/static/media/error.6f34b3c11dae08e7fdbd.svg",
     "static/media/AXS.svg": "/static/media/AXS.35bd73064c26a29e75f3.svg",
+    "static/media/no-nft.svg": "/static/media/no-nft.502d585fff47ed1abe2ad3299cc808b5.svg",
     "static/media/email.svg": "/static/media/email.410a224f80a5b1d60f77.svg",
     "static/media/reset-gamma-codition.svg": "/static/media/reset-gamma-codition.25cca9d1a071e4ae2d68.svg",
     "static/media/no-data.svg": "/static/media/no-data.299ed1fa51ba81f394fb.svg",
@@ -122,11 +123,15 @@
     "static/media/XRP.svg": "/static/media/XRP.356ef43aa3d8a67c6e7c.svg",
     "static/media/XRPUSDT.svg": "/static/media/XRPUSDT.356ef43aa3d8a67c6e7c.svg",
     "static/media/toast-pending.svg": "/static/media/toast-pending.913ec53829551cad64a8.svg",
+    "static/media/inactive-add.svg": "/static/media/inactive-add.4f0a243b76c764c75379.svg",
+    "static/media/add-icon.svg": "/static/media/add-icon.3371611bf424facb5161.svg",
     "static/media/copy-s.svg": "/static/media/copy-s.36b5e2243e4cd0319e62.svg",
     "static/media/finish.svg": "/static/media/finish.6a161156774d6142187b.svg",
     "static/media/warning.svg": "/static/media/warning.0df9d15a5e0f3532ac6b4e5007dfb8dd.svg",
     "static/media/collateral.svg": "/static/media/collateral.44e9bff40b9b9397588f.svg",
+    "static/media/inactive-remove.svg": "/static/media/inactive-remove.a7b5da77cc4b72bf468e.svg",
     "static/media/argent.svg": "/static/media/argent.a1935d4de7d26ba96362.svg",
+    "static/media/remove-icon.svg": "/static/media/remove-icon.534f5d52f155ac04e3ec.svg",
     "static/media/trade-warn.svg": "/static/media/trade-warn.303d243c7438524c53cf.svg",
     "static/media/USDT.svg": "/static/media/USDT.6db8325183760d906430.svg",
     "static/media/switch.svg": "/static/media/switch.8dc9f721534d1f42bcc4.svg",
@@ -180,7 +185,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.b5a5e006.css",
-    "static/js/main.e02e971c.js"
+    "static/css/main.46808e44.css",
+    "static/js/main.b8d0faa9.js"
   ]
 }
