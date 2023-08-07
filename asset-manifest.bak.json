@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.32407281.css",
-    "main.js": "/static/js/main.c6bb2474.js",
+    "main.css": "/static/css/main.5a2e0055.css",
+    "main.js": "/static/js/main.ec15bb73.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.f2affc30b5fcfcf5354f.png",
@@ -176,7 +176,7 @@
     "static/media/tab.svg": "/static/media/tab.461aa9aa41f838ca3dc3.svg",
     "static/media/to-left.svg": "/static/media/to-left.61c83e1bcd2e5410e4a4.svg",
     "static/media/m-tab.svg": "/static/media/m-tab.8a55199bee01752a1dc5.svg",
-    "static/media/arrow-down.svg": "/static/media/arrow-down.19723889b1b707cc8b7fd4da2355fd2d.svg",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.19723889b1b707cc8b7f.svg",
     "static/media/arrow-up.svg": "/static/media/arrow-up.3fc6ee79fee16c5dbf87.svg",
     "static/media/up-price.svg": "/static/media/up-price.74bb295adfc633e8d5a8.svg",
     "static/media/rate-down.svg": "/static/media/rate-down.6c08a648d0b4dc5eabee.svg",
@@ -186,7 +186,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.32407281.css",
-    "static/js/main.c6bb2474.js"
+    "static/css/main.5a2e0055.css",
+    "static/js/main.ec15bb73.js"
   ]
 }
