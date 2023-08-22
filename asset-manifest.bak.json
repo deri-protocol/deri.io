@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.999e99a8.css",
-    "main.js": "/static/js/main.ffc6b190.js",
+    "main.css": "/static/css/main.bc8f12b0.css",
+    "main.js": "/static/js/main.322635a2.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.f2affc30b5fcfcf5354f.png",
@@ -55,7 +55,7 @@
     "static/media/FITFI.svg": "/static/media/FITFI.1eebaa711f6eb35bab01.svg",
     "static/media/SXP copy.svg": "/static/media/SXP copy.15b2a8e35da9f4f40242.svg",
     "static/media/SXP.svg": "/static/media/SXP.15b2a8e35da9f4f40242.svg",
-    "static/media/beta.svg": "/static/media/beta.0be23db7dc8e0811da79.svg",
+    "static/media/beta.svg": "/static/media/beta.a1da7fea19e4403098bc.svg",
     "static/media/share-twitter.svg": "/static/media/share-twitter.aa3143ac97ace13df84684d86bd85b14.svg",
     "static/media/hr-bg.svg": "/static/media/hr-bg.bbe01fbfd44072a8ef07.svg",
     "static/media/BTC.svg": "/static/media/BTC.b0bc0271ab5790f4d1c4.svg",
@@ -139,8 +139,10 @@
     "static/media/LINK.svg": "/static/media/LINK.a56498b052d4aa9a058a.svg",
     "static/media/skip.svg": "/static/media/skip.b17924393214717b0333.svg",
     "static/media/filter.svg": "/static/media/filter.c289b063a17a54739e981d509eca1ce5.svg",
+    "static/media/trigger-price-icon.svg": "/static/media/trigger-price-icon.60501a76869c161b0ae2.svg",
     "static/media/drop-down-hover.svg": "/static/media/drop-down-hover.9a39d5e344112391e97a.svg",
     "static/media/WBNB.svg": "/static/media/WBNB.a4a83ea597956a71d8b8.svg",
+    "static/media/drop-up.svg": "/static/media/drop-up.e2305364ddfe9c2f3c5f.svg",
     "static/media/drop-down.svg": "/static/media/drop-down.aaad5038960fa8d75156.svg",
     "static/media/deri.svg": "/static/media/deri.99910f261fa75b0b3b0fc44e2e59e8c7.svg",
     "static/media/search.svg": "/static/media/search.f636a35e8ef967cdf41d516599bf4949.svg",
@@ -186,7 +188,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.999e99a8.css",
-    "static/js/main.ffc6b190.js"
+    "static/css/main.bc8f12b0.css",
+    "static/js/main.322635a2.js"
   ]
 }
