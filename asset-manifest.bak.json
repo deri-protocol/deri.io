@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee84d573.css",
-    "main.js": "/static/js/main.f44ff33a.js",
+    "main.css": "/static/css/main.f4f53f00.css",
+    "main.js": "/static/js/main.2d12f00e.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.f2affc30b5fcfcf5354f.png",
@@ -145,6 +145,7 @@
     "static/media/twitter-dark.svg": "/static/media/twitter-dark.452ea1b6157125eaab05.svg",
     "static/media/close-step.svg": "/static/media/close-step.f94ce5bc585543d54596.svg",
     "static/media/copy.svg": "/static/media/copy.3a2bfeed655dce4d2c2d.svg",
+    "static/media/close-kline.svg": "/static/media/close-kline.23c59a4bcf3e27f0f975.svg",
     "static/media/open-step.svg": "/static/media/open-step.fcad36cdbabe12eb909e.svg",
     "static/media/XRP.svg": "/static/media/XRP.356ef43aa3d8a67c6e7c.svg",
     "static/media/XRPUSDT.svg": "/static/media/XRPUSDT.356ef43aa3d8a67c6e7c.svg",
@@ -210,6 +211,7 @@
     "static/media/arrow-down.svg": "/static/media/arrow-down.19723889b1b707cc8b7f.svg",
     "static/media/arrow-up.svg": "/static/media/arrow-up.3fc6ee79fee16c5dbf87.svg",
     "static/media/up-price.svg": "/static/media/up-price.74bb295adfc633e8d5a8.svg",
+    "static/media/kline.svg": "/static/media/kline.5f213ab1a02b76db2b08.svg",
     "static/media/rate-down.svg": "/static/media/rate-down.6c08a648d0b4dc5eabee.svg",
     "static/media/down-price.svg": "/static/media/down-price.597c9bf9e22bd8675fc4.svg",
     "static/media/target.svg": "/static/media/target.78ff72a4663a4b636c11.svg",
@@ -217,7 +219,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.ee84d573.css",
-    "static/js/main.f44ff33a.js"
+    "static/css/main.f4f53f00.css",
+    "static/js/main.2d12f00e.js"
   ]
 }
