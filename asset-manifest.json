@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b9c15c0.css",
-    "main.js": "/static/js/main.fb918287.js",
+    "main.css": "/static/css/main.83ae3b42.css",
+    "main.js": "/static/js/main.e6d5a691.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.f2affc30b5fcfcf5354f.png",
@@ -29,6 +29,7 @@
     "static/media/DOGE.svg": "/static/media/DOGE.f87b27a2eb0822f419c3.svg",
     "static/media/TUSD.svg": "/static/media/TUSD.d23073feabe475c7d2ab.svg",
     "static/media/Position-liquidators.png": "/static/media/Position-liquidators.f779704a19a9d58befe4.png",
+    "static/media/announcement-bg.png": "/static/media/announcement-bg.79499b89f5b66c03c43e.png",
     "static/media/trade.png": "/static/media/trade.95fcb301c4b5515d42d8.png",
     "static/media/liquidity-providers.png": "/static/media/liquidity-providers.7f8dce1e82bb3f2534d5.png",
     "static/media/step1.png": "/static/media/step1.d87dc9abda2ebf07d6e8.png",
@@ -54,6 +55,7 @@
     "static/media/total-users-m.png": "/static/media/total-users-m.1aa9b1b73e595419a757.png",
     "static/media/ADA.svg": "/static/media/ADA.57bd82637922e5be1690.svg",
     "static/media/ETH.svg": "/static/media/ETH.017d28018b651588b1af.svg",
+    "static/media/announcement-m.png": "/static/media/announcement-m.fbfc9f08c4dc6b3b2383.png",
     "static/media/walletconnect.svg": "/static/media/walletconnect.488dc369fbb265f431a7.svg",
     "static/media/explained-six.svg": "/static/media/explained-six.984d32ea80464d9b6e69.svg",
     "static/media/explained-five.svg": "/static/media/explained-five.045dadfc540c9bca7b84.svg",
@@ -219,7 +221,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.3b9c15c0.css",
-    "static/js/main.fb918287.js"
+    "static/css/main.83ae3b42.css",
+    "static/js/main.e6d5a691.js"
   ]
 }
