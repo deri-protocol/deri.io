@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab3b312d.css",
-    "main.js": "/static/js/main.73d133da.js",
+    "main.css": "/static/css/main.86bd0be2.css",
+    "main.js": "/static/js/main.019d6fa7.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/index.mp4": "/static/media/index.4b8607712096a88688c8.mp4",
@@ -70,7 +70,6 @@
     "static/media/BTC.svg": "/static/media/BTC.b0bc0271ab5790f4d1c4.svg",
     "static/media/BTCB.svg": "/static/media/BTCB.63407f2782456f46fa7a.svg",
     "static/media/rebate-total-rewards.svg": "/static/media/rebate-total-rewards.1d0cf05b130d34948b41.svg",
-    "static/media/arbitrum-chain-logo.svg": "/static/media/arbitrum-chain-logo.eaa92039e72ea7ebb774.svg",
     "static/media/slippage-setting.svg": "/static/media/slippage-setting.e0f7af219d3c18ecc7fd.svg",
     "static/media/LUSD.svg": "/static/media/LUSD.137a519b1cc59ae23798.svg",
     "static/media/rebate-total-fee.svg": "/static/media/rebate-total-fee.9ad3df3e3cc9b04eb279.svg",
@@ -82,6 +81,8 @@
     "static/media/reset.svg": "/static/media/reset.c5fc29bfc8fc3ed683fc.svg",
     "static/media/token-value-max.svg": "/static/media/token-value-max.cf4234dc3ae30220ed5d.svg",
     "index.html": "/index.html",
+    "static/media/ARB.svg": "/static/media/ARB.8be1a3fa17c484466eff.svg",
+    "static/media/arbitrum-chain-logo.svg": "/static/media/arbitrum-chain-logo.8be1a3fa17c484466eff.svg",
     "static/media/amusdc.svg": "/static/media/amusdc.a91be758534458fb7a2a.svg",
     "static/media/BNB.svg": "/static/media/BNB.1f2d8869808f7fb780a2.svg",
     "static/media/bsc-chain-logo.svg": "/static/media/bsc-chain-logo.1f2d8869808f7fb780a2.svg",
@@ -215,7 +216,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.ab3b312d.css",
-    "static/js/main.73d133da.js"
+    "static/css/main.86bd0be2.css",
+    "static/js/main.019d6fa7.js"
   ]
 }
