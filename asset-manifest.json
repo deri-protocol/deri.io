@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5158e54.css",
-    "main.js": "/static/js/main.e7ec9d9d.js",
+    "main.css": "/static/css/main.2737951c.css",
+    "main.js": "/static/js/main.175ec59d.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/tools-bg-img.jpg": "/static/media/tools-bg-img.3ca6efb6ed3d69c8a892.jpg",
@@ -93,6 +93,7 @@
     "static/media/calculator.svg": "/static/media/calculator.e833e0c747c380241fe8.svg",
     "static/media/v3-label.svg": "/static/media/v3-label.64e66cee6736654e36ca.svg",
     "static/media/warning-linea.svg": "/static/media/warning-linea.0bc79ee404034381607a.svg",
+    "static/media/lost-waring.svg": "/static/media/lost-waring.a9faa0f0333859053202.svg",
     "static/media/arbitrum-chain-logo.svg": "/static/media/arbitrum-chain-logo.ace3c4ca16bc2726a30e.svg",
     "static/media/USDC.svg": "/static/media/USDC.13d2a91d866a1b738904.svg",
     "static/media/deri-based-tip.svg": "/static/media/deri-based-tip.83718cee07dd152e9a42.svg",
@@ -222,7 +223,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.f5158e54.css",
-    "static/js/main.e7ec9d9d.js"
+    "static/css/main.2737951c.css",
+    "static/js/main.175ec59d.js"
   ]
 }
