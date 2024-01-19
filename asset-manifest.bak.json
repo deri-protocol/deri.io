@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d0974aa.css",
-    "main.js": "/static/js/main.ce6b5afb.js",
+    "main.css": "/static/css/main.6141a77d.css",
+    "main.js": "/static/js/main.05b82361.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -77,6 +77,7 @@
     "static/media/slippage-setting.svg": "/static/media/slippage-setting.e0f7af219d3c18ecc7fd.svg",
     "static/media/LUSD.svg": "/static/media/LUSD.137a519b1cc59ae23798.svg",
     "static/media/alilayer.svg": "/static/media/alilayer.df243c263159b4773ede081e9edb6e34.svg",
+    "static/media/MANTA.svg": "/static/media/MANTA.5459673a6d5617cff7cb.svg",
     "static/media/manta-chain-logo.svg": "/static/media/manta-chain-logo.5459673a6d5617cff7cb.svg",
     "static/media/rebate-total-fee.svg": "/static/media/rebate-total-fee.9ad3df3e3cc9b04eb279.svg",
     "static/media/DAI.svg": "/static/media/DAI.a6c3fb45029dfb38fd2c.svg",
@@ -227,7 +228,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.2d0974aa.css",
-    "static/js/main.ce6b5afb.js"
+    "static/css/main.6141a77d.css",
+    "static/js/main.05b82361.js"
   ]
 }
