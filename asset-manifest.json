@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8776e925.css",
-    "main.js": "/static/js/main.e03a439a.js",
+    "main.css": "/static/css/main.754d49d0.css",
+    "main.js": "/static/js/main.ce907f50.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -122,6 +122,7 @@
     "static/media/btn-info.svg": "/static/media/btn-info.2d9fe0cff7fe6eb1f2f3.svg",
     "static/media/ETC.svg": "/static/media/ETC.43289b5722be33b0445b.svg",
     "static/media/BUSD.svg": "/static/media/BUSD.42a5f6e9cf6661c4a422.svg",
+    "static/media/WSTETH.svg": "/static/media/WSTETH.ba092d4ba32e85a59c76.svg",
     "static/media/polygon-chain-logo.svg": "/static/media/polygon-chain-logo.ee66df63bfd5b3e46912.svg",
     "static/media/wallet.svg": "/static/media/wallet.fc18bd69fe2b2c61f89d.svg",
     "static/media/telegram.svg": "/static/media/telegram.3ea3bf4e0ecf774a48d1.svg",
@@ -228,7 +229,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.8776e925.css",
-    "static/js/main.e03a439a.js"
+    "static/css/main.754d49d0.css",
+    "static/js/main.ce907f50.js"
   ]
 }
