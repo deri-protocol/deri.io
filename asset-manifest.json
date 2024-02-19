@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0fd42538.css",
-    "main.js": "/static/js/main.da190e0b.js",
+    "main.js": "/static/js/main.6e57f9e8.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -63,7 +63,7 @@
     "static/media/no-redeem.svg": "/static/media/no-redeem.28f659c6e7faf493ea0b.svg",
     "static/media/discord.svg": "/static/media/discord.bb365a8a124cb389908f.svg",
     "static/media/close-only.svg": "/static/media/close-only.d6401c35beee55515db1.svg",
-    "static/media/no-data-icon.svg": "/static/media/no-data-icon.a143531c53c651aed10e.svg",
+    "static/media/no-data-icon.svg": "/static/media/no-data-icon.f3a2cb6ff8a8fbc87cec.svg",
     "static/media/FITFI.svg": "/static/media/FITFI.1eebaa711f6eb35bab01.svg",
     "static/media/aave.svg": "/static/media/aave.7668efba0f2b8fb9cbeb02aba731f2e3.svg",
     "static/media/SXP copy.svg": "/static/media/SXP copy.15b2a8e35da9f4f40242.svg",
@@ -230,6 +230,6 @@
   },
   "entrypoints": [
     "static/css/main.0fd42538.css",
-    "static/js/main.da190e0b.js"
+    "static/js/main.6e57f9e8.js"
   ]
 }
