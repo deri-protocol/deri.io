@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0fd42538.css",
-    "main.js": "/static/js/main.ab0fc369.js",
+    "main.css": "/static/css/main.788ede5f.css",
+    "main.js": "/static/js/main.b5c17f22.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -63,7 +63,7 @@
     "static/media/no-redeem.svg": "/static/media/no-redeem.28f659c6e7faf493ea0b.svg",
     "static/media/discord.svg": "/static/media/discord.bb365a8a124cb389908f.svg",
     "static/media/close-only.svg": "/static/media/close-only.d6401c35beee55515db1.svg",
-    "static/media/no-data-icon.svg": "/static/media/no-data-icon.f3a2cb6ff8a8fbc87cec.svg",
+    "static/media/no-data-icon.svg": "/static/media/no-data-icon.a143531c53c651aed10e.svg",
     "static/media/FITFI.svg": "/static/media/FITFI.1eebaa711f6eb35bab01.svg",
     "static/media/aave.svg": "/static/media/aave.7668efba0f2b8fb9cbeb02aba731f2e3.svg",
     "static/media/SXP copy.svg": "/static/media/SXP copy.15b2a8e35da9f4f40242.svg",
@@ -71,6 +71,7 @@
     "static/media/beta.svg": "/static/media/beta.a1da7fea19e4403098bc.svg",
     "static/media/share-twitter.svg": "/static/media/share-twitter.aa3143ac97ace13df84684d86bd85b14.svg",
     "static/media/rebate-total-users.svg": "/static/media/rebate-total-users.24d274b5a5551c5a546a.svg",
+    "static/media/goMainnet.svg": "/static/media/goMainnet.3004a754c18950ae6d3c.svg",
     "static/media/BTC.svg": "/static/media/BTC.b0bc0271ab5790f4d1c4.svg",
     "static/media/BTCB.svg": "/static/media/BTCB.63407f2782456f46fa7a.svg",
     "static/media/rebate-total-rewards.svg": "/static/media/rebate-total-rewards.1d0cf05b130d34948b41.svg",
@@ -229,7 +230,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.0fd42538.css",
-    "static/js/main.ab0fc369.js"
+    "static/css/main.788ede5f.css",
+    "static/js/main.b5c17f22.js"
   ]
 }
