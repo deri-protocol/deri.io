@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2dae8a2a.css",
-    "main.js": "/static/js/main.bed6fbf6.js",
+    "main.css": "/static/css/main.cfd02b4e.css",
+    "main.js": "/static/js/main.f96ac8ee.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -65,6 +65,7 @@
     "static/media/close-only.svg": "/static/media/close-only.d6401c35beee55515db1.svg",
     "static/media/no-data-icon.svg": "/static/media/no-data-icon.a143531c53c651aed10e.svg",
     "static/media/FITFI.svg": "/static/media/FITFI.1eebaa711f6eb35bab01.svg",
+    "static/media/USDB.svg": "/static/media/USDB.f77a0e2a12c3f3769900.svg",
     "static/media/aave.svg": "/static/media/aave.7668efba0f2b8fb9cbeb02aba731f2e3.svg",
     "static/media/SXP copy.svg": "/static/media/SXP copy.15b2a8e35da9f4f40242.svg",
     "static/media/SXP.svg": "/static/media/SXP.15b2a8e35da9f4f40242.svg",
@@ -159,6 +160,7 @@
     "static/media/XRP.svg": "/static/media/XRP.356ef43aa3d8a67c6e7c.svg",
     "static/media/XRPUSDT.svg": "/static/media/XRPUSDT.356ef43aa3d8a67c6e7c.svg",
     "static/media/copy-code.svg": "/static/media/copy-code.f7236d274c3c74cf737c.svg",
+    "static/media/blastLogo.svg": "/static/media/blastLogo.12f3a8764c0ae2b2de4a80a67c3a4b4a.svg",
     "static/media/toast-pending.svg": "/static/media/toast-pending.913ec53829551cad64a8.svg",
     "static/media/inactive-add.svg": "/static/media/inactive-add.4f0a243b76c764c75379.svg",
     "static/media/add-icon.svg": "/static/media/add-icon.3371611bf424facb5161.svg",
@@ -192,6 +194,7 @@
     "static/media/logo.svg": "/static/media/logo.8407346ccb3533d3dbf9b9e320c1cde2.svg",
     "static/media/add-gray.svg": "/static/media/add-gray.d1192092bdd24332ee72.svg",
     "static/media/add.svg": "/static/media/add.f96a2356e6b190849fce.svg",
+    "static/media/blast-chain-logo.svg": "/static/media/blast-chain-logo.64355e85625c996f2e94.svg",
     "static/media/zkSync-logo.svg": "/static/media/zkSync-logo.b3c18e287e409160b7b3.svg",
     "static/media/rate-up.svg": "/static/media/rate-up.981f328a1521af48b343.svg",
     "static/media/toast-close.svg": "/static/media/toast-close.e1a7d903333af711246e.svg",
@@ -230,7 +233,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.2dae8a2a.css",
-    "static/js/main.bed6fbf6.js"
+    "static/css/main.cfd02b4e.css",
+    "static/js/main.f96ac8ee.js"
   ]
 }
