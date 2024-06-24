@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.43e70f75.css",
-    "main.js": "/static/js/main.64bd660a.js",
+    "main.css": "/static/css/main.a0c17bf1.css",
+    "main.js": "/static/js/main.3bd3ebf7.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -71,6 +71,7 @@
     "static/media/tradingleaderboards.svg": "/static/media/tradingleaderboards.c8fa5d6d60daaf34b6f9.svg",
     "static/media/close-only.svg": "/static/media/close-only.d6401c35beee55515db1.svg",
     "static/media/TON.svg": "/static/media/TON.6cefad621eb41e5b5035.svg",
+    "static/media/share-twitter.svg": "/static/media/share-twitter.aa3143ac97ace13df84684d86bd85b14.svg",
     "static/media/no-data-icon.svg": "/static/media/no-data-icon.a143531c53c651aed10e.svg",
     "static/media/FITFI.svg": "/static/media/FITFI.1eebaa711f6eb35bab01.svg",
     "static/media/USDB.svg": "/static/media/USDB.f77a0e2a12c3f3769900.svg",
@@ -79,13 +80,13 @@
     "static/media/SXP.svg": "/static/media/SXP.15b2a8e35da9f4f40242.svg",
     "static/media/OP.svg": "/static/media/OP.a074f80bb75cacbf3baf.svg",
     "static/media/beta.svg": "/static/media/beta.a1da7fea19e4403098bc.svg",
-    "static/media/share-twitter.svg": "/static/media/share-twitter.aa3143ac97ace13df84684d86bd85b14.svg",
     "static/media/rebate-total-users.svg": "/static/media/rebate-total-users.24d274b5a5551c5a546a.svg",
     "static/media/REZ.svg": "/static/media/REZ.814a16cddbab6b18f1af.svg",
     "static/media/goMainnet.svg": "/static/media/goMainnet.3004a754c18950ae6d3c.svg",
     "static/media/BTC.svg": "/static/media/BTC.b0bc0271ab5790f4d1c4.svg",
     "static/media/BTCB.svg": "/static/media/BTCB.63407f2782456f46fa7a.svg",
     "static/media/rebate-total-rewards.svg": "/static/media/rebate-total-rewards.1d0cf05b130d34948b41.svg",
+    "static/media/share-facebook.svg": "/static/media/share-facebook.f4198ddc2ead39dbe468.svg",
     "index.html": "/index.html",
     "static/media/slippage-setting.svg": "/static/media/slippage-setting.e0f7af219d3c18ecc7fd.svg",
     "static/media/LUSD.svg": "/static/media/LUSD.137a519b1cc59ae23798.svg",
@@ -244,7 +245,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.43e70f75.css",
-    "static/js/main.64bd660a.js"
+    "static/css/main.a0c17bf1.css",
+    "static/js/main.3bd3ebf7.js"
   ]
 }
