@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.154f6e72.css",
-    "main.js": "/static/js/main.3a67c480.js",
+    "main.css": "/static/css/main.72ef856f.css",
+    "main.js": "/static/js/main.f4d89b81.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -102,6 +102,7 @@
     "static/media/share-twitter.svg": "/static/media/share-twitter.aa3143ac97ace13df84684d86bd85b14.svg",
     "static/media/no-data-icon.svg": "/static/media/no-data-icon.a143531c53c651aed10e.svg",
     "static/media/FITFI.svg": "/static/media/FITFI.1eebaa711f6eb35bab01.svg",
+    "static/media/warning-blue.svg": "/static/media/warning-blue.2a96f6e6d968a9c98be8.svg",
     "static/media/share-medium.svg": "/static/media/share-medium.4965de9cc6f5a35a24ce.svg",
     "static/media/USDB.svg": "/static/media/USDB.f77a0e2a12c3f3769900.svg",
     "static/media/aave.svg": "/static/media/aave.7668efba0f2b8fb9cbeb02aba731f2e3.svg",
@@ -275,7 +276,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.154f6e72.css",
-    "static/js/main.3a67c480.js"
+    "static/css/main.72ef856f.css",
+    "static/js/main.f4d89b81.js"
   ]
 }
