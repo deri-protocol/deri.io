@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b7648a4.css",
-    "main.js": "/static/js/main.f3e838f8.js",
+    "main.css": "/static/css/main.386be447.css",
+    "main.js": "/static/js/main.dec515ea.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -57,6 +57,7 @@
     "static/media/TUSD.svg": "/static/media/TUSD.d23073feabe475c7d2ab.svg",
     "static/media/work-bg.svg": "/static/media/work-bg.6677da3026640e3171af9f8d16791dab.svg",
     "static/media/daniel.jpg": "/static/media/daniel.66afa0a1384d6321e46e.jpg",
+    "static/media/TAIKO.svg": "/static/media/TAIKO.ef4a42a06f19e24656d6.svg",
     "static/media/taiko-chain-logo.svg": "/static/media/taiko-chain-logo.2cf0224564939964d651.svg",
     "static/media/XVS.svg": "/static/media/XVS.5896dc93d6bc4afee0e0.svg",
     "static/media/facebook.svg": "/static/media/facebook.fb3bbac21eda41970f00.svg",
@@ -138,8 +139,6 @@
     "static/media/manta-chain-logo.svg": "/static/media/manta-chain-logo.5459673a6d5617cff7cb.svg",
     "static/media/rebate-total-fee.svg": "/static/media/rebate-total-fee.9ad3df3e3cc9b04eb279.svg",
     "static/media/DAI.svg": "/static/media/DAI.a6c3fb45029dfb38fd2c.svg",
-    "static/media/TAIKO.svg": "/static/media/TAIKO.95030f0607c0859dea49.svg",
-    "static/media/Taiko.svg": "/static/media/Taiko.95030f0607c0859dea49.svg",
     "static/media/scroll-chain-logo.svg": "/static/media/scroll-chain-logo.8e6551562cec64ed8de4.svg",
     "static/media/new-symbol.svg": "/static/media/new-symbol.5c8318ab848e04393938.svg",
     "static/media/metamask.svg": "/static/media/metamask.354e0086ec0ec0a4eb60.svg",
@@ -305,7 +304,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.1b7648a4.css",
-    "static/js/main.f3e838f8.js"
+    "static/css/main.386be447.css",
+    "static/js/main.dec515ea.js"
   ]
 }

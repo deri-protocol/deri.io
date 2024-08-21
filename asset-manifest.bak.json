@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1b7648a4.css",
-    "main.js": "/static/js/main.5ef85dbc.js",
+    "main.js": "/static/js/main.f3e838f8.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -139,6 +139,7 @@
     "static/media/rebate-total-fee.svg": "/static/media/rebate-total-fee.9ad3df3e3cc9b04eb279.svg",
     "static/media/DAI.svg": "/static/media/DAI.a6c3fb45029dfb38fd2c.svg",
     "static/media/TAIKO.svg": "/static/media/TAIKO.95030f0607c0859dea49.svg",
+    "static/media/Taiko.svg": "/static/media/Taiko.95030f0607c0859dea49.svg",
     "static/media/scroll-chain-logo.svg": "/static/media/scroll-chain-logo.8e6551562cec64ed8de4.svg",
     "static/media/new-symbol.svg": "/static/media/new-symbol.5c8318ab848e04393938.svg",
     "static/media/metamask.svg": "/static/media/metamask.354e0086ec0ec0a4eb60.svg",
@@ -305,6 +306,6 @@
   },
   "entrypoints": [
     "static/css/main.1b7648a4.css",
-    "static/js/main.5ef85dbc.js"
+    "static/js/main.f3e838f8.js"
   ]
 }
