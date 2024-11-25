@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.95c60be4.css",
-    "main.js": "/static/js/main.4186fed4.js",
+    "main.css": "/static/css/main.1bb58d85.css",
+    "main.js": "/static/js/main.b4b65ae9.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -164,6 +164,7 @@
     "static/media/rebate-warn.svg": "/static/media/rebate-warn.993d532a423ed97a6e10.svg",
     "static/media/SOL.svg": "/static/media/SOL.b69fe6d6be0a368f5ad6.svg",
     "static/media/step-three.svg": "/static/media/step-three.1d028a77fef2562cac25.svg",
+    "static/media/SUI.svg": "/static/media/SUI.4df2b0661c43b628aee4.svg",
     "static/media/AVAX.svg": "/static/media/AVAX.6f864acc0daa03b279b1.svg",
     "static/media/warn-remove-hint.svg": "/static/media/warn-remove-hint.8345ea56a7d81e9760a1.svg",
     "static/media/tab-option.svg": "/static/media/tab-option.9289b63deb89f1097961.svg",
@@ -304,7 +305,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.95c60be4.css",
-    "static/js/main.4186fed4.js"
+    "static/css/main.1bb58d85.css",
+    "static/js/main.b4b65ae9.js"
   ]
 }
