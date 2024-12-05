@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.81563740.css",
-    "main.js": "/static/js/main.3d52a40e.js",
+    "main.css": "/static/css/main.b11af7e9.css",
+    "main.js": "/static/js/main.33b25f3d.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -123,6 +123,7 @@
     "static/media/governance.svg": "/static/media/governance.e32bdd33dd535a4a3505044374c086ec.svg",
     "static/media/rebate-total-users.svg": "/static/media/rebate-total-users.079a837e9d16613b7e5c.svg",
     "static/media/REZ.svg": "/static/media/REZ.c1f6d69ec0c83725e4eb.svg",
+    "static/media/download-icon.svg": "/static/media/download-icon.9f736d3939f53e19aeee.svg",
     "static/media/goMainnet.svg": "/static/media/goMainnet.87342352b57da1af291e.svg",
     "static/media/BTC.svg": "/static/media/BTC.db6e15a8db8b35fff7ad.svg",
     "static/media/BTCB.svg": "/static/media/BTCB.b3f0e9330037ffc44c6a.svg",
@@ -179,6 +180,7 @@
     "static/media/card-bg.svg": "/static/media/card-bg.77418d9fbbf87f4265d1.svg",
     "static/media/go-recruiter.svg": "/static/media/go-recruiter.3f34b166582a639b0dd8.svg",
     "static/media/copied-logo.svg": "/static/media/copied-logo.1d5c09c439d42b6099b2.svg",
+    "static/media/sonic-chain-logo.svg": "/static/media/sonic-chain-logo.d776f5ed6b1cf57c5894.svg",
     "static/media/pool-mobile.svg": "/static/media/pool-mobile.9961a12bd3ec39d4821d.svg",
     "static/media/pool-card-background.svg": "/static/media/pool-card-background.393407e449efda5216ec.svg",
     "static/media/wallet-hover-bg.svg": "/static/media/wallet-hover-bg.2f6281e700d73001254e.svg",
@@ -305,7 +307,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.81563740.css",
-    "static/js/main.3d52a40e.js"
+    "static/css/main.b11af7e9.css",
+    "static/js/main.33b25f3d.js"
   ]
 }
