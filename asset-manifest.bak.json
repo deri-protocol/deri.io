@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e62052ac.css",
-    "main.js": "/static/js/main.71a4bb06.js",
+    "main.css": "/static/css/main.2b1673b0.css",
+    "main.js": "/static/js/main.1d15d5d3.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -130,12 +130,12 @@
     "static/media/share-facebook.svg": "/static/media/share-facebook.cf19153ff7602175875e.svg",
     "static/media/governance-bg.svg": "/static/media/governance-bg.fbf56143b750afd818a2.svg",
     "static/media/privilege.svg": "/static/media/privilege.9c1f0375da5df998d8cbf85bfd5026d3.svg",
-    "index.html": "/index.html",
     "static/media/slippage-setting.svg": "/static/media/slippage-setting.2487135d2cac8d698ac5.svg",
     "static/media/LUSD.svg": "/static/media/LUSD.fa9435faa0e93e0abd42.svg",
     "static/media/alilayer.svg": "/static/media/alilayer.b31dffad1fd85e0be9759683b1bd01e2.svg",
     "static/media/MANTA.svg": "/static/media/MANTA.7763ffbfd572ec6b3a03.svg",
     "static/media/manta-chain-logo.svg": "/static/media/manta-chain-logo.7763ffbfd572ec6b3a03.svg",
+    "index.html": "/index.html",
     "static/media/rebate-total-fee.svg": "/static/media/rebate-total-fee.96aaba7611572f954a5d.svg",
     "static/media/DAI.svg": "/static/media/DAI.56c92862737e54917cb0.svg",
     "static/media/TAIKO.svg": "/static/media/TAIKO.95c36575490108087466.svg",
@@ -146,6 +146,7 @@
     "static/media/pool-new-label.svg": "/static/media/pool-new-label.dfabe3eaa82a68b887e9.svg",
     "static/media/reset.svg": "/static/media/reset.2ea616e2718b4940b56a.svg",
     "static/media/token-value-max.svg": "/static/media/token-value-max.3113b53c2d0d540f287b.svg",
+    "static/media/uxuy.svg": "/static/media/uxuy.bb4bc2ec3d987a8278b2.svg",
     "static/media/amusdc.svg": "/static/media/amusdc.a91be758534458fb7a2a.svg",
     "static/media/ARB.svg": "/static/media/ARB.faa42c96978b4291a6b0.svg",
     "static/media/BNB.svg": "/static/media/BNB.1518b6e15da034eba90a11d57c457238.svg",
@@ -304,7 +305,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.e62052ac.css",
-    "static/js/main.71a4bb06.js"
+    "static/css/main.2b1673b0.css",
+    "static/js/main.1d15d5d3.js"
   ]
 }
