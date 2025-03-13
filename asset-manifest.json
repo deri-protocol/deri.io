@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.aad0023d.css",
-    "main.js": "/static/js/main.5f8f0edd.js",
+    "main.js": "/static/js/main.2199f4ea.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -182,7 +182,7 @@
     "static/media/card-bg.svg": "/static/media/card-bg.77418d9fbbf87f4265d1.svg",
     "static/media/go-recruiter.svg": "/static/media/go-recruiter.3f34b166582a639b0dd8.svg",
     "static/media/copied-logo.svg": "/static/media/copied-logo.1d5c09c439d42b6099b2.svg",
-    "static/media/SUSDT.svg": "/static/media/SUSDT.d776f5ed6b1cf57c5894.svg",
+    "static/media/S.svg": "/static/media/S.d776f5ed6b1cf57c5894.svg",
     "static/media/sonic-chain-logo.svg": "/static/media/sonic-chain-logo.d776f5ed6b1cf57c5894.svg",
     "static/media/pool-mobile.svg": "/static/media/pool-mobile.9961a12bd3ec39d4821d.svg",
     "static/media/pool-card-background.svg": "/static/media/pool-card-background.393407e449efda5216ec.svg",
@@ -309,6 +309,6 @@
   },
   "entrypoints": [
     "static/css/main.aad0023d.css",
-    "static/js/main.5f8f0edd.js"
+    "static/js/main.2199f4ea.js"
   ]
 }
