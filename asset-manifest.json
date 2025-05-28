@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.752b70da.css",
-    "main.js": "/static/js/main.65ef338e.js",
+    "main.css": "/static/css/main.8dedbdcf.css",
+    "main.js": "/static/js/main.865ca61c.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -114,7 +114,10 @@
     "static/media/pancake.svg": "/static/media/pancake.2c13a9f350a4df40b904e4bf353714cd.svg",
     "static/media/tg-icon.svg": "/static/media/tg-icon.0a8663682b4d37ed3537.svg",
     "static/media/SONICLogo.svg": "/static/media/SONICLogo.a3e6e2de560e3557769a7c0af7ece0bb.svg",
+    "static/media/error-big.svg": "/static/media/error-big.19f30ed1b7232af34725.svg",
+    "static/media/success-big.svg": "/static/media/success-big.1be3511ac26ec94220b5.svg",
     "static/media/no-data-icon.svg": "/static/media/no-data-icon.a143531c53c651aed10e.svg",
+    "static/media/select.svg": "/static/media/select.439a683eef06facc9002.svg",
     "static/media/FITFI.svg": "/static/media/FITFI.f0353c4d841db5d55983.svg",
     "static/media/warning-blue.svg": "/static/media/warning-blue.4687b9ad2afd6afc50b5.svg",
     "static/media/governance-discussion.svg": "/static/media/governance-discussion.7afb067b209a381252ec98059d192124.svg",
@@ -319,7 +322,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.752b70da.css",
-    "static/js/main.65ef338e.js"
+    "static/css/main.8dedbdcf.css",
+    "static/js/main.865ca61c.js"
   ]
 }
