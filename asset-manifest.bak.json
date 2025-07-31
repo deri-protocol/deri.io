@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8dedbdcf.css",
-    "main.js": "/static/js/main.4d969ab8.js",
+    "main.css": "/static/css/main.4ce9a565.css",
+    "main.js": "/static/js/main.68eaab1f.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -105,6 +105,7 @@
     "static/media/discord.svg": "/static/media/discord.7d53f32408ec54f192238fbeef768361.svg",
     "static/media/share-telegram.svg": "/static/media/share-telegram.6c8a69c773226ad5be2c.svg",
     "static/media/PEPE.svg": "/static/media/PEPE.5f64199e4836712b2344.svg",
+    "static/media/USD1.svg": "/static/media/USD1.85175e3cf906fec9ada3.svg",
     "static/media/supra-chain-logo.svg": "/static/media/supra-chain-logo.ade0e3bc30ff042f9ba9.svg",
     "static/media/tradingleaderboards.svg": "/static/media/tradingleaderboards.9181e7c2fca7355dcaec.svg",
     "static/media/share-discord.svg": "/static/media/share-discord.87004a685ef909fada2d.svg",
@@ -322,7 +323,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.8dedbdcf.css",
-    "static/js/main.4d969ab8.js"
+    "static/css/main.4ce9a565.css",
+    "static/js/main.68eaab1f.js"
   ]
 }
