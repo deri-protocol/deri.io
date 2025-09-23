@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a45ad6b.css",
-    "main.js": "/static/js/main.a98c7be2.js",
+    "main.css": "/static/css/main.b997480c.css",
+    "main.js": "/static/js/main.d0ae80aa.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -222,6 +222,7 @@
     "static/media/short.svg": "/static/media/short.d1a2efcedc93205b0026.svg",
     "static/media/TRX.svg": "/static/media/TRX.533898d5a6e5f03f4400.svg",
     "static/media/scan.svg": "/static/media/scan.352a0cbce78d51ee79e7.svg",
+    "static/media/linea-chain-logo.svg": "/static/media/linea-chain-logo.0f97faf61299109db77e.svg",
     "static/media/MATIC.svg": "/static/media/MATIC.80d4567910bcd41ec917.svg",
     "static/media/NOT.svg": "/static/media/NOT.366d2ef1b68f0301e209.svg",
     "static/media/error.svg": "/static/media/error.6fe58031f8a9708ec4d8.svg",
@@ -240,7 +241,6 @@
     "static/media/succeed.svg": "/static/media/succeed.1057d4b2662b4ba280dafecdfbbe1c42.svg",
     "static/media/LINEA.svg": "/static/media/LINEA.e0c7e7424046eeac0d3c.svg",
     "static/media/copy-code.svg": "/static/media/copy-code.24f4144db4be98e4d5c1.svg",
-    "static/media/linea-chain-logo.svg": "/static/media/linea-chain-logo.e0c7e7424046eeac0d3c.svg",
     "static/media/XRP.svg": "/static/media/XRP.ac1e04f17611364e44ea.svg",
     "static/media/XRPUSDT.svg": "/static/media/XRPUSDT.ac1e04f17611364e44ea.svg",
     "static/media/blastLogo.svg": "/static/media/blastLogo.2cb974f975fbad852519047c15aca983.svg",
@@ -324,7 +324,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.1a45ad6b.css",
-    "static/js/main.a98c7be2.js"
+    "static/css/main.b997480c.css",
+    "static/js/main.d0ae80aa.js"
   ]
 }
