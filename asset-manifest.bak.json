@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cab8b0dd.css",
-    "main.js": "/static/js/main.60deeb3b.js",
+    "main.css": "/static/css/main.588cf3fc.css",
+    "main.js": "/static/js/main.d1082c99.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -90,6 +90,7 @@
     "static/media/task-wallet.svg": "/static/media/task-wallet.c63a87c8ea55eb55e249.svg",
     "static/media/WIF.svg": "/static/media/WIF.0be4852fb4e1e30206b2.svg",
     "static/media/arbitrum.svg": "/static/media/arbitrum.ad23fcdae1087a57c85fdafcc61ad476.svg",
+    "static/media/USD₮0.svg": "/static/media/USD₮0.1f7be283af400ec709b0.svg",
     "static/media/walletconnect.svg": "/static/media/walletconnect.304e327744ae5c9b1b62.svg",
     "static/media/BONK.svg": "/static/media/BONK.663052fc0f5f78d14964.svg",
     "static/media/explained-six.svg": "/static/media/explained-six.4aaec18c993dbde81c06.svg",
@@ -333,7 +334,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.cab8b0dd.css",
-    "static/js/main.60deeb3b.js"
+    "static/css/main.588cf3fc.css",
+    "static/js/main.d1082c99.js"
   ]
 }
