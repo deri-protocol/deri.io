@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.588cf3fc.css",
-    "main.js": "/static/js/main.fa61a83e.js",
+    "main.js": "/static/js/main.aea1c3c9.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
@@ -55,6 +55,7 @@
     "static/media/BarlowSemiCondensed-Regular.ttf": "/static/media/BarlowSemiCondensed-Regular.28bce4c43f58ea98f789.ttf",
     "static/media/DOGE.svg": "/static/media/DOGE.76ddc0955594a1bde772.svg",
     "static/media/chain-bg-two.png": "/static/media/chain-bg-two.52a1f7ed182ee88e9bb2.png",
+    "static/media/rabby.svg": "/static/media/rabby.2303131de835e799c898.svg",
     "static/media/TUSD.svg": "/static/media/TUSD.92c5d7673c59320430cb.svg",
     "static/media/work-bg.svg": "/static/media/work-bg.87d1fd625ce4a62529fc81154acbad87.svg",
     "static/media/daniel.jpg": "/static/media/daniel.66afa0a1384d6321e46e.jpg",
@@ -335,6 +336,6 @@
   },
   "entrypoints": [
     "static/css/main.588cf3fc.css",
-    "static/js/main.fa61a83e.js"
+    "static/js/main.aea1c3c9.js"
   ]
 }
