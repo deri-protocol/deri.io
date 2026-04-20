@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a156023.css",
-    "main.js": "/static/js/main.4cc538a5.js",
-    "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
+    "main.css": "/static/css/main.3c9a651d.css",
+    "main.js": "/static/js/main.ad49d06b.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
+    "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/js/544.23a90c37.chunk.js": "/static/js/544.23a90c37.chunk.js",
     "static/media/tools-bg-img.jpg": "/static/media/tools-bg-img.3ca6efb6ed3d69c8a892.jpg",
@@ -220,6 +220,8 @@
     "static/media/lang-icon.svg": "/static/media/lang-icon.2c64ed512594a50b5adeea9956849bfb.svg",
     "static/media/hint.svg": "/static/media/hint.0513bd8e9951007e446d.svg",
     "static/media/no-volatility.svg": "/static/media/no-volatility.cab9c7add96aa4bdf1a6a5ab7aa87715.svg",
+    "static/media/CCC.svg": "/static/media/CCC.347a395f5e86598f37f3.svg",
+    "static/media/cytonic-chain-logo.svg": "/static/media/cytonic-chain-logo.347a395f5e86598f37f3.svg",
     "static/media/warn.svg": "/static/media/warn.55ea5dfded9dc579b3b8.svg",
     "static/media/pnlUp.svg": "/static/media/pnlUp.067f9fff65185eaf96aefa573c7fb29d.svg",
     "static/media/medium.svg": "/static/media/medium.c6bcdb22cce368bc819d.svg",
@@ -336,7 +338,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.4a156023.css",
-    "static/js/main.4cc538a5.js"
+    "static/css/main.3c9a651d.css",
+    "static/js/main.ad49d06b.js"
   ]
 }
