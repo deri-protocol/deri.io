@@ -1,23 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.58796941.css",
-    "main.js": "/static/js/main.20abf800.js",
+    "main.js": "/static/js/main.c234fe9c.js",
     "static/js/42.98b99fa0.chunk.js": "/static/js/42.98b99fa0.chunk.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/js/544.23a90c37.chunk.js": "/static/js/544.23a90c37.chunk.js",
     "static/media/tools-bg-img.jpg": "/static/media/tools-bg-img.3ca6efb6ed3d69c8a892.jpg",
     "static/media/upgrade.svg": "/static/media/upgrade.c89774b318d7bbc81b17.svg",
-    "static/media/upgrade-first.mp4": "/static/media/upgrade-first.e886817cbbff3d7f2898.mp4",
     "static/media/ceo.svg": "/static/media/ceo.550ff9eb04ff4465572b.svg",
     "static/media/share-position-power.svg": "/static/media/share-position-power.f62cbaad2587c24cbc73.svg",
     "static/media/share-position-option.svg": "/static/media/share-position-option.becc28bf4b7e736e63c2.svg",
     "static/media/share-position-future.svg": "/static/media/share-position-future.c03ba6e3d09f17c81c1c.svg",
     "static/media/jason.svg": "/static/media/jason.a65699a244d6870bb298.svg",
-    "static/media/upgrade-third.mp4": "/static/media/upgrade-third.a8fc727234b2fc698f96.mp4",
     "static/media/team-bg.jpg": "/static/media/team-bg.2c962c4428b5a2ecbec4.jpg",
     "static/media/index-bg.webm": "/static/media/index-bg.0e9cc24f1f5cff33b107.webm",
-    "static/media/upgrade-fourth.mp4": "/static/media/upgrade-fourth.e055adc5545b7fd1099c.mp4",
     "static/media/index-bg.png": "/static/media/index-bg.f4ce37331aaa92014c2b.png",
     "static/media/bind-bg.png": "/static/media/bind-bg.b995f84b41202ddada45.png",
     "static/media/APE.svg": "/static/media/APE.55f3fda88daf879cb042.svg",
@@ -60,7 +57,6 @@
     "static/media/rabby.svg": "/static/media/rabby.2303131de835e799c898.svg",
     "static/media/TUSD.svg": "/static/media/TUSD.92c5d7673c59320430cb.svg",
     "static/media/work-bg.svg": "/static/media/work-bg.87d1fd625ce4a62529fc81154acbad87.svg",
-    "static/media/upgrade-second.mp4": "/static/media/upgrade-second.33aa4646ed025ba9990e.mp4",
     "static/media/daniel.jpg": "/static/media/daniel.66afa0a1384d6321e46e.jpg",
     "static/media/fire-icon.svg": "/static/media/fire-icon.6f8dab15d2ab533cd76b.svg",
     "static/media/taiko-chain-logo.svg": "/static/media/taiko-chain-logo.53b70dc78d1025474104.svg",
@@ -344,6 +340,6 @@
   },
   "entrypoints": [
     "static/css/main.58796941.css",
-    "static/js/main.20abf800.js"
+    "static/js/main.c234fe9c.js"
   ]
 }
