@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c4c2c79.css",
-    "main.js": "/static/js/main.6f29ad33.js",
+    "main.css": "/static/css/main.b516216c.css",
+    "main.js": "/static/js/main.760bdfe4.js",
     "static/js/199.746542c3.chunk.js": "/static/js/199.746542c3.chunk.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/js/544.23a90c37.chunk.js": "/static/js/544.23a90c37.chunk.js",
@@ -144,6 +144,7 @@
     "static/media/rebate-total-rewards.svg": "/static/media/rebate-total-rewards.d9f7aa264442f1e27ea4.svg",
     "static/media/claim-success.svg": "/static/media/claim-success.d2be07b5f43dd2be74d4.svg",
     "static/media/share-facebook.svg": "/static/media/share-facebook.cf19153ff7602175875e.svg",
+    "static/media/options-tutor.svg": "/static/media/options-tutor.dcce445e38bd63c471d0.svg",
     "static/media/governance-bg.svg": "/static/media/governance-bg.fbf56143b750afd818a2.svg",
     "static/media/privilege.svg": "/static/media/privilege.9c1f0375da5df998d8cbf85bfd5026d3.svg",
     "static/media/slippage-setting.svg": "/static/media/slippage-setting.2487135d2cac8d698ac5.svg",
@@ -330,7 +331,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.2c4c2c79.css",
-    "static/js/main.6f29ad33.js"
+    "static/css/main.b516216c.css",
+    "static/js/main.760bdfe4.js"
   ]
 }
